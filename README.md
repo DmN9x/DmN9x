@@ -1,7 +1,7 @@
 # Hello there! 👋🏻
 
 ## About me 😃
-- I'm a 21 years old Brazilian 🇧🇷 Web Developer (**mainly back-end**)
+- I'm a 23 years old Brazilian 🇧🇷 Software Engineer
 - I started programming in Python 🐍 but have since moved on to C# 🌐
 - I have a bachelor's in Computer Science
 
